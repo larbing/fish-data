@@ -85,6 +85,8 @@
 
 [立即下载 Windows 版本](https://tempfile.itoolkit.top/c6a5eac2)
 
+[Github下载地址](https://github.com/larbing/fish-data/releases/tag/20250725)
+
 ## 功能演示
 
 项目包含完整的功能演示视频，展示客户端的核心操作流程和界面效果。
