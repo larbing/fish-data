@@ -53,14 +53,17 @@
 
 2. **开始采集与分析**
    
-   ![数据采集分析界面](https://via.placeholder.com/600x300/f8fafc/2563eb?text=步骤2：数据采集分析界面)
+   ![数据采集分析界面](https://github.com/larbing/fish-data/blob/main/2.PNG)
    
    - 一键启动任务
    - 客户端自动完成数据采集、清洗和分析
 
 3. **查看报告与导出**
    
-   ![报告导出界面](https://via.placeholder.com/600x300/f8fafc/2563eb?text=步骤3：报告导出界面)
+   ![报告导出界面](https://github.com/larbing/fish-data/blob/main/3.PNG)
+   ![报告导出界面1](https://github.com/larbing/fish-data/blob/main/4.PNG)
+   ![报告导出界面2](https://github.com/larbing/fish-data/blob/main/5.PNG)
+   ![报告导出界面3](https://github.com/larbing/fish-data/blob/main/6.PNG)
    
    - 在仪表盘查看可视化报告
    - 将原始数据导出进行进一步分析
