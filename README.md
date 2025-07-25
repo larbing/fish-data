@@ -47,7 +47,7 @@
 
 1. **输入关键字**
    
-   ![输入关键字界面](https://via.placeholder.com/600x300/f8fafc/2563eb?text=步骤1：输入关键字界面)
+   ![输入关键字界面](https://github.com/larbing/fish-data/blob/main/1.PNG)
    
    - 输入您想关注的商品关键字或筛选条件
 
