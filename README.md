@@ -59,12 +59,12 @@
    - 客户端自动完成数据采集、清洗和分析
 
 3. **查看报告与导出**
-   
+   ![Ai推荐](https://github.com/larbing/fish-data/blob/main/7.PNG)
    ![报告导出界面](https://github.com/larbing/fish-data/blob/main/3.PNG)
    ![报告导出界面1](https://github.com/larbing/fish-data/blob/main/4.PNG)
    ![报告导出界面2](https://github.com/larbing/fish-data/blob/main/5.PNG)
    ![报告导出界面3](https://github.com/larbing/fish-data/blob/main/6.PNG)
-   ![Ai推荐](https://github.com/larbing/fish-data/blob/main/7.PNG)
+   
    
    - 在仪表盘查看可视化报告
    - 将原始数据导出进行进一步分析
